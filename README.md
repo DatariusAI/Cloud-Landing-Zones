@@ -4,7 +4,7 @@ A free, self-updating guide to **landing zones on every major cloud**: the secur
 Research and code lists refresh every day from arXiv and GitHub. Curated resources are hand-picked and free.
 
 <!-- STAMP:START -->
-_Lists fill in after the first daily refresh._
+_Last refreshed: 2026-10-08 15:39 UTC_
 <!-- STAMP:END -->
 
 ## Contents
@@ -21,7 +21,16 @@ _Lists fill in after the first daily refresh._
 Newest papers on arXiv for this topic, newest first.
 
 <!-- ARXIV:START -->
-_Loading on first refresh._
+| Date | Paper | Authors |
+|---|---|---|
+| 2026-07-22 | [Enterprise Integration Modernization with SAP BTP](https://arxiv.org/abs/2607.19662) | Shunmukha Sagar Puppala |
+| 2026-07-02 | [LLMoxie: Exploring Agentic AI for Scientific Software Development](https://arxiv.org/abs/2607.02703) | Landung Setiawan et al. |
+| 2026-06-09 | [Synthetic-to-Real Pipeline for Safe Landing Zone Detection](https://arxiv.org/abs/2606.14767) | Shrikant Banerjee et al. |
+| 2026-01-16 | [Crane Lowering Guidance Using a Attachable Camera Module for Driver Vision Support](https://arxiv.org/abs/2601.11026) | HyoJae Kang et al. |
+| 2026-01-11 | [How Do Ports Organise Innovation? Linking Port Governance, Ownership, and Living Labs](https://arxiv.org/abs/2601.06894) | Sonia Yeh et al. |
+| 2026-01-07 | [Hybrid Cloud Architectures for Research Computing: Applications and Use Cases](https://arxiv.org/abs/2601.04349) | Xaver Stiensmeier et al. |
+| 2025-12-11 | [A Privacy-Preserving Cloud Architecture for Distributed Machine Learning at Scale](https://arxiv.org/abs/2512.10341) | Vinoth Punniyamoorthy et al. |
+| 2025-12-10 | [Development and Testing for Perception Based Autonomous Landing of a Long-Range QuadPlane](https://arxiv.org/abs/2512.09343) | Ashik E Rasul et al. |
 <!-- ARXIV:END -->
 
 ## ☁️ Landing zones by hyperscaler
@@ -43,21 +52,42 @@ Identity and access · account or subscription structure · networking and conne
 Most-starred GitHub repositories updated in the last 12 months.
 
 <!-- IAC:START -->
-_Loading on first refresh._
+| Repository | What it is | Language | Stars | Last update |
+|---|---|---|---|---|
+| [GoogleCloudPlatform/cloud-foundation-fabric](https://github.com/GoogleCloudPlatform/cloud-foundation-fabric) | End-to-end modular samples and landing zones toolkit for Terraform on GCP. | HCL | 2,111 | 2026-10-07 |
+| [Azure/agent-landing-zone](https://github.com/Azure/agent-landing-zone) | Enterprise-grade landing zone for AI agent applications on Azure. Deploy the secure infrastructure, the agent app, or both — built on Micros | Python | 1,187 | 2026-10-08 |
+| [Azure/ALZ-Bicep](https://github.com/Azure/ALZ-Bicep) | This repository contains the Azure Landing Zones (ALZ) Bicep (Classic) modules that help deliver and deploy the Azure Landing Zone conceptua | Bicep | 890 | 2026-09-30 |
+| [Azure/AI-Landing-Zones](https://github.com/Azure/AI-Landing-Zones) | The AI Landing Zone is a secure, resilient and scalable reference architecture and reference implementation in the form of bicep, terraform  | Python | 343 | 2026-10-06 |
+| [Azure/appservice-landing-zone-accelerator](https://github.com/Azure/appservice-landing-zone-accelerator) | The Azure App Service landing zone accelerator is an open-source collection of architectural guidance and reference implementation to accele | Bicep | 238 | 2026-03-24 |
+| [Jamonygr/azure-landing-zone-lab](https://github.com/Jamonygr/azure-landing-zone-lab) | Learn Azure infrastructure with this hands-on Terraform lab. Deploys a complete enterprise environment with hub-spoke networking, firewall,  | HCL | 235 | 2026-08-24 |
 <!-- IAC:END -->
 
 ## 🤖 AI and GenAI landing zones
 Most-starred GitHub repositories updated in the last 12 months.
 
 <!-- AILZ:START -->
-_Loading on first refresh._
+| Repository | What it is | Language | Stars | Last update |
+|---|---|---|---|---|
+| [Azure/agent-landing-zone](https://github.com/Azure/agent-landing-zone) | Enterprise-grade landing zone for AI agent applications on Azure. Deploy the secure infrastructure, the agent app, or both — built on Micros | Python | 1,187 | 2026-10-08 |
+| [Azure/AI-Landing-Zones](https://github.com/Azure/AI-Landing-Zones) | The AI Landing Zone is a secure, resilient and scalable reference architecture and reference implementation in the form of bicep, terraform  | Python | 343 | 2026-10-06 |
+| [Azure/agent-app-ingestion](https://github.com/Azure/agent-app-ingestion) | Data ingestion service for the Agent Landing Zone. Processes PDFs, images, spreadsheets, transcripts and SharePoint content into Azure AI Se | Python | 188 | 2026-10-08 |
+| [Azure/terraform-azurerm-avm-ptn-aiml-landing-zone](https://github.com/Azure/terraform-azurerm-avm-ptn-aiml-landing-zone) | Terraform Azure Verified Pattern Module for AI-ML - Landing Zone (LZ) | HCL | 41 | 2026-10-01 |
+| [DataChefHQ/aws-data-landing-zone](https://github.com/DataChefHQ/aws-data-landing-zone) | The Data Landing Zone is a CDK Construct designed to create a landing zone tailored for supporting and enabling AI, data-driven, data mesh,  | TypeScript | 25 | 2026-10-08 |
+| [Azure/bicep-ptn-aiml-landing-zone](https://github.com/Azure/bicep-ptn-aiml-landing-zone) | AI Landing Zone Bicep templates for deploying a secure, modular baseline for AI applications and agents on Azure. | PowerShell | 19 | 2026-09-29 |
 <!-- AILZ:END -->
 
 ## 🛡️ Policy as code and cloud governance
 Most-starred GitHub repositories updated in the last 12 months.
 
 <!-- GOV:START -->
-_Loading on first refresh._
+| Repository | What it is | Language | Stars | Last update |
+|---|---|---|---|---|
+| [cloud-custodian/cloud-custodian](https://github.com/cloud-custodian/cloud-custodian) | Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources | Python | 6,078 | 2026-10-08 |
+| [iann0036/iamlive](https://github.com/iann0036/iamlive) | Generate an IAM policy from AWS, Azure, or Google Cloud (GCP) calls using client-side monitoring (CSM) or embedded proxy | Go | 3,413 | 2026-04-19 |
+| [Micke-K/IntuneManagement](https://github.com/Micke-K/IntuneManagement) | Copy, export, import, delete, document and compare policies and profiles in Intune and Azure with PowerShell script and WPF UI. Import ADMX  | PowerShell | 2,096 | 2026-09-23 |
+| [Azure/azure-policy](https://github.com/Azure/azure-policy) | Repository for Azure Resource Policy built-in definitions and samples | Open Policy Agent | 1,696 | 2026-09-20 |
+| [aws-cloudformation/cloudformation-guard](https://github.com/aws-cloudformation/cloudformation-guard) | Guard offers a policy-as-code domain-specific language (DSL) to write rules and validate JSON- and YAML-formatted data such as CloudFormatio | Rust | 1,389 | 2026-09-14 |
+| [JulianHayward/Azure-MG-Sub-Governance-Reporting](https://github.com/JulianHayward/Azure-MG-Sub-Governance-Reporting) | Azure Governance Visualizer aka AzGovViz is a PowerShell script that captures Azure Governance related information such as Azure Policy, RBA | PowerShell | 981 | 2026-09-11 |
 <!-- GOV:END -->
 
 ## 📚 Free learning resources
