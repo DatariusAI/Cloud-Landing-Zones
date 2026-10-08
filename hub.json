@@ -1,0 +1,32 @@
+{
+  "arxiv_query": "abs:\"landing zone\" OR (abs:cloud AND abs:governance AND abs:\"multi-account\") OR (abs:\"multi-cloud\" AND abs:governance)",
+  "arxiv_max": 8,
+  "repos_per_section": 6,
+  "since_days": 365,
+  "code_sections": [
+    {
+      "key": "IAC",
+      "queries": [
+        "landing zone terraform",
+        "landing zone bicep",
+        "landing zone cdk"
+      ]
+    },
+    {
+      "key": "AILZ",
+      "queries": [
+        "ai landing zone",
+        "genai landing zone",
+        "openai landing zone"
+      ]
+    },
+    {
+      "key": "GOV",
+      "queries": [
+        "policy as code cloud",
+        "cloud governance terraform",
+        "azure policy"
+      ]
+    }
+  ]
+}
