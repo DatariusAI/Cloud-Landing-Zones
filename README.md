@@ -4,7 +4,7 @@ A free, self-updating guide to **landing zones on every major cloud**: the secur
 Research and code lists refresh every day from arXiv and GitHub. Curated resources are hand-picked and free.
 
 <!-- STAMP:START -->
-_Last refreshed: 2026-10-31 04:27 UTC_
+_Last refreshed: 2026-11-01 04:27 UTC_
 <!-- STAMP:END -->
 
 ## Contents
@@ -54,9 +54,9 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- IAC:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [GoogleCloudPlatform/cloud-foundation-fabric](https://github.com/GoogleCloudPlatform/cloud-foundation-fabric) | End-to-end modular samples and landing zones toolkit for Terraform on GCP. | HCL | 2,124 | 2026-10-30 |
-| [Azure/agent-landing-zone](https://github.com/Azure/agent-landing-zone) | Enterprise-grade landing zone for AI agent applications on Azure. Deploy the secure infrastructure, the agent app, or both — built on Micros | Python | 1,203 | 2026-10-30 |
-| [Azure/ALZ-Bicep](https://github.com/Azure/ALZ-Bicep) | This repository contains the Azure Landing Zones (ALZ) Bicep (Classic) modules that help deliver and deploy the Azure Landing Zone conceptua | Bicep | 891 | 2026-10-09 |
+| [GoogleCloudPlatform/cloud-foundation-fabric](https://github.com/GoogleCloudPlatform/cloud-foundation-fabric) | End-to-end modular samples and landing zones toolkit for Terraform on GCP. | HCL | 2,126 | 2026-10-31 |
+| [Azure/agent-landing-zone](https://github.com/Azure/agent-landing-zone) | Enterprise-grade landing zone for AI agent applications on Azure. Deploy the secure infrastructure, the agent app, or both — built on Micros | Python | 1,203 | 2026-11-01 |
+| [Azure/ALZ-Bicep](https://github.com/Azure/ALZ-Bicep) | This repository contains the Azure Landing Zones (ALZ) Bicep (Classic) modules that help deliver and deploy the Azure Landing Zone conceptua | Bicep | 892 | 2026-10-09 |
 | [Azure/AI-Landing-Zones](https://github.com/Azure/AI-Landing-Zones) | The AI Landing Zone is a secure, resilient and scalable reference architecture and reference implementation in the form of bicep, terraform  | Python | 352 | 2026-10-31 |
 | [Jamonygr/azure-landing-zone-lab](https://github.com/Jamonygr/azure-landing-zone-lab) | Learn Azure infrastructure with this hands-on Terraform lab. Deploys a complete enterprise environment with hub-spoke networking, firewall,  | HCL | 241 | 2026-08-24 |
 | [Azure/appservice-landing-zone-accelerator](https://github.com/Azure/appservice-landing-zone-accelerator) | The Azure App Service landing zone accelerator is an open-source collection of architectural guidance and reference implementation to accele | Bicep | 239 | 2026-03-24 |
@@ -68,11 +68,11 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- AILZ:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [Azure/agent-landing-zone](https://github.com/Azure/agent-landing-zone) | Enterprise-grade landing zone for AI agent applications on Azure. Deploy the secure infrastructure, the agent app, or both — built on Micros | Python | 1,203 | 2026-10-30 |
+| [Azure/agent-landing-zone](https://github.com/Azure/agent-landing-zone) | Enterprise-grade landing zone for AI agent applications on Azure. Deploy the secure infrastructure, the agent app, or both — built on Micros | Python | 1,203 | 2026-11-01 |
 | [Azure/AI-Landing-Zones](https://github.com/Azure/AI-Landing-Zones) | The AI Landing Zone is a secure, resilient and scalable reference architecture and reference implementation in the form of bicep, terraform  | Python | 352 | 2026-10-31 |
 | [oci-landing-zones/oci-landing-zone-operating-entities](https://github.com/oci-landing-zones/oci-landing-zone-operating-entities) | The OCI Operating Entities Landing Zone is a set of open and secure OCI landing zone blueprints to simplify the onboarding and running of or | TypeScript | 67 | 2026-10-30 |
 | [Azure/terraform-azurerm-avm-ptn-aiml-landing-zone](https://github.com/Azure/terraform-azurerm-avm-ptn-aiml-landing-zone) | Terraform Azure Verified Pattern Module for AI-ML - Landing Zone (LZ) | HCL | 42 | 2026-10-29 |
-| [DataChefHQ/aws-data-landing-zone](https://github.com/DataChefHQ/aws-data-landing-zone) | The Data Landing Zone is a CDK Construct designed to create a landing zone tailored for supporting and enabling AI, data-driven, data mesh,  | TypeScript | 25 | 2026-10-31 |
+| [DataChefHQ/aws-data-landing-zone](https://github.com/DataChefHQ/aws-data-landing-zone) | The Data Landing Zone is a CDK Construct designed to create a landing zone tailored for supporting and enabling AI, data-driven, data mesh,  | TypeScript | 25 | 2026-11-01 |
 | [Azure/bicep-ptn-aiml-landing-zone](https://github.com/Azure/bicep-ptn-aiml-landing-zone) | AI Landing Zone Bicep templates for deploying a secure, modular baseline for AI applications and agents on Azure. | PowerShell | 19 | 2026-10-30 |
 <!-- AILZ:END -->
 
