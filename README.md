@@ -4,7 +4,7 @@ A free, self-updating guide to **landing zones on every major cloud**: the secur
 Research and code lists refresh every day from arXiv and GitHub. Curated resources are hand-picked and free.
 
 <!-- STAMP:START -->
-_Last refreshed: 2026-11-05 04:28 UTC_
+_Last refreshed: 2026-11-06 04:27 UTC_
 <!-- STAMP:END -->
 
 ## Contents
@@ -54,10 +54,10 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- IAC:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [GoogleCloudPlatform/cloud-foundation-fabric](https://github.com/GoogleCloudPlatform/cloud-foundation-fabric) | End-to-end modular samples and landing zones toolkit for Terraform on GCP. | HCL | 2,125 | 2026-11-04 |
+| [GoogleCloudPlatform/cloud-foundation-fabric](https://github.com/GoogleCloudPlatform/cloud-foundation-fabric) | End-to-end modular samples and landing zones toolkit for Terraform on GCP. | HCL | 2,127 | 2026-11-05 |
 | [Azure/agent-landing-zone](https://github.com/Azure/agent-landing-zone) | Enterprise-grade landing zone for AI agent applications on Azure. Deploy the secure infrastructure, the agent app, or both — built on Micros | Python | 1,204 | 2026-11-03 |
 | [Azure/ALZ-Bicep](https://github.com/Azure/ALZ-Bicep) | This repository contains the Azure Landing Zones (ALZ) Bicep (Classic) modules that help deliver and deploy the Azure Landing Zone conceptua | Bicep | 892 | 2026-10-09 |
-| [Azure/AI-Landing-Zones](https://github.com/Azure/AI-Landing-Zones) | The AI Landing Zone is a secure, resilient and scalable reference architecture and reference implementation in the form of bicep, terraform  | Python | 354 | 2026-11-04 |
+| [Azure/AI-Landing-Zones](https://github.com/Azure/AI-Landing-Zones) | The AI Landing Zone is a secure, resilient and scalable reference architecture and reference implementation in the form of bicep, terraform  | Python | 354 | 2026-11-06 |
 | [Jamonygr/azure-landing-zone-lab](https://github.com/Jamonygr/azure-landing-zone-lab) | Learn Azure infrastructure with this hands-on Terraform lab. Deploys a complete enterprise environment with hub-spoke networking, firewall,  | HCL | 241 | 2026-08-24 |
 | [Azure/aca-landing-zone-accelerator](https://github.com/Azure/aca-landing-zone-accelerator) | The Azure Container Apps landing zone accelerator is an open-source collection of architectural guidance and reference implementation to acc | Bicep | 217 | 2026-01-26 |
 <!-- IAC:END -->
@@ -69,10 +69,10 @@ Most-starred GitHub repositories updated in the last 12 months.
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
 | [Azure/agent-landing-zone](https://github.com/Azure/agent-landing-zone) | Enterprise-grade landing zone for AI agent applications on Azure. Deploy the secure infrastructure, the agent app, or both — built on Micros | Python | 1,204 | 2026-11-03 |
-| [Azure/AI-Landing-Zones](https://github.com/Azure/AI-Landing-Zones) | The AI Landing Zone is a secure, resilient and scalable reference architecture and reference implementation in the form of bicep, terraform  | Python | 354 | 2026-11-04 |
-| [oci-landing-zones/oci-landing-zone-operating-entities](https://github.com/oci-landing-zones/oci-landing-zone-operating-entities) | The OCI Operating Entities Landing Zone is a set of open and secure OCI landing zone blueprints to simplify the onboarding and running of or | TypeScript | 67 | 2026-11-04 |
+| [Azure/AI-Landing-Zones](https://github.com/Azure/AI-Landing-Zones) | The AI Landing Zone is a secure, resilient and scalable reference architecture and reference implementation in the form of bicep, terraform  | Python | 354 | 2026-11-06 |
+| [oci-landing-zones/oci-landing-zone-operating-entities](https://github.com/oci-landing-zones/oci-landing-zone-operating-entities) | The OCI Operating Entities Landing Zone is a set of open and secure OCI landing zone blueprints to simplify the onboarding and running of or | TypeScript | 67 | 2026-11-05 |
 | [Azure/terraform-azurerm-avm-ptn-aiml-landing-zone](https://github.com/Azure/terraform-azurerm-avm-ptn-aiml-landing-zone) | Terraform Azure Verified Pattern Module for AI-ML - Landing Zone (LZ) | HCL | 42 | 2026-11-04 |
-| [DataChefHQ/aws-data-landing-zone](https://github.com/DataChefHQ/aws-data-landing-zone) | The Data Landing Zone is a CDK Construct designed to create a landing zone tailored for supporting and enabling AI, data-driven, data mesh,  | TypeScript | 25 | 2026-11-05 |
+| [DataChefHQ/aws-data-landing-zone](https://github.com/DataChefHQ/aws-data-landing-zone) | The Data Landing Zone is a CDK Construct designed to create a landing zone tailored for supporting and enabling AI, data-driven, data mesh,  | TypeScript | 25 | 2026-11-06 |
 | [Azure/bicep-ptn-aiml-landing-zone](https://github.com/Azure/bicep-ptn-aiml-landing-zone) | AI Landing Zone Bicep templates for deploying a secure, modular baseline for AI applications and agents on Azure. | PowerShell | 19 | 2026-10-30 |
 <!-- AILZ:END -->
 
@@ -82,10 +82,10 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- GOV:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [cloud-custodian/cloud-custodian](https://github.com/cloud-custodian/cloud-custodian) | Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources | Python | 6,107 | 2026-11-05 |
+| [cloud-custodian/cloud-custodian](https://github.com/cloud-custodian/cloud-custodian) | Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources | Python | 6,111 | 2026-11-05 |
 | [iann0036/iamlive](https://github.com/iann0036/iamlive) | Generate an IAM policy from AWS, Azure, or Google Cloud (GCP) calls using client-side monitoring (CSM) or embedded proxy | Go | 3,417 | 2026-04-19 |
-| [Micke-K/IntuneManagement](https://github.com/Micke-K/IntuneManagement) | Copy, export, import, delete, document and compare policies and profiles in Intune and Azure with PowerShell script and WPF UI. Import ADMX  | PowerShell | 2,121 | 2026-10-25 |
-| [Azure/azure-policy](https://github.com/Azure/azure-policy) | Repository for Azure Resource Policy built-in definitions and samples | Open Policy Agent | 1,697 | 2026-10-28 |
+| [Micke-K/IntuneManagement](https://github.com/Micke-K/IntuneManagement) | Copy, export, import, delete, document and compare policies and profiles in Intune and Azure with PowerShell script and WPF UI. Import ADMX  | PowerShell | 2,125 | 2026-10-25 |
+| [Azure/azure-policy](https://github.com/Azure/azure-policy) | Repository for Azure Resource Policy built-in definitions and samples | Open Policy Agent | 1,696 | 2026-10-28 |
 | [aws-cloudformation/cloudformation-guard](https://github.com/aws-cloudformation/cloudformation-guard) | Guard offers a policy-as-code domain-specific language (DSL) to write rules and validate JSON- and YAML-formatted data such as CloudFormatio | Rust | 1,395 | 2026-11-02 |
 | [JulianHayward/Azure-MG-Sub-Governance-Reporting](https://github.com/JulianHayward/Azure-MG-Sub-Governance-Reporting) | Azure Governance Visualizer aka AzGovViz is a PowerShell script that captures Azure Governance related information such as Azure Policy, RBA | PowerShell | 986 | 2026-09-11 |
 <!-- GOV:END -->
